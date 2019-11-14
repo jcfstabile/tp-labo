@@ -1,0 +1,35 @@
+Instalacion de un sistema de monitoreo de posiciones globales: Traccar
+(en un domicilio particular).
+
+Licencia Apache 2.0
+Instalacion de tracker server en debian
+opciones:
+    - Instalar desde zip
+    - clone Source code
+        install maven 
+        install jdk
+        
+Configuracion NAT de router para port forwarding
+    - ports para el tracker server
+    - ports para la interface web de seguimiento
+    
+Configuracion de un dns dinamico (duckdns.org)
+    - alta en el proveedor del servicio gratuito
+    - configuracion de un cron service para mantener la "ip publica actualizada"
+    
+Instalacion para prueba de una app traccar en android, tracker client.
+    
+Notas:
+traccar web page
+  https://www.traccar.org/
+traccar source code from
+  https://github.com/traccar/traccar
+traccar app
+  https://www.traccar.org/client/  
+maven install from 
+  http://maven.apache.org/install.html
+jdk 8 install from oracle (user needed)
+  https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
+  https://docs.oracle.com/javase/8/docs/technotes/guides/install/linux_jdk.html#BJFGGEFG
+dinamic dns from
+  http://www.duckdns.org/
