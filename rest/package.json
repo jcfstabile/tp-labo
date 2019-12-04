@@ -1,0 +1,16 @@
+{
+  "name": "rest",
+  "version": "1.0.0",
+  "description": "app para consultar al server traccar",
+  "main": "rest.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "tplabo"
+  },
+  "author": "eg, jc",
+  "license": "GPL-2.0-or-later",
+  "dependencies": {}
+}
